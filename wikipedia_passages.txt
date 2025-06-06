@@ -1,0 +1,14 @@
+title: Climate Change
+content: Climate change refers to long-term shifts in temperatures and weather patterns, primarily caused by human activities like burning fossil fuels which increase greenhouse gas emissions. The Earth's average temperature has risen by 1.1°C since the late 19th century.
+
+title: Renewable Energy
+content: Renewable energy comes from natural sources like sunlight, wind, and water flow. Solar power converts sunlight into electricity using photovoltaic cells, while wind turbines harness kinetic energy from wind. These sources produce minimal greenhouse gas emissions.
+
+title: Biodiversity Loss
+content: Current extinction rates are 100-1000 times higher than natural background rates due to human activities. Habitat destruction, pollution, and climate change threaten over 1 million species with extinction. Coral reefs are particularly vulnerable to ocean warming.
+
+title: Carbon Footprint
+content: A carbon footprint measures total greenhouse gas emissions caused directly and indirectly by an individual or organization. The average global carbon footprint is about 4 tons per person annually. Flying produces 0.25kg CO2 per passenger-kilometer.
+
+title: Sustainable Agriculture
+content: This farming method meets current food needs without compromising future generations. Techniques include crop rotation, organic fertilizers, and precision irrigation. Sustainable farms typically have 30% higher biodiversity than conventional ones.
